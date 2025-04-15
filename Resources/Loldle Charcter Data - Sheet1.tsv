@@ -12,7 +12,7 @@ Aphelios	Male	Bot	Human	Mana	Ranged	Mount Targon	5
 Ashe	Female	Bot, Support	Human	Mana	Ranged	Freljord	18
 Aurelion Sol	Male	Mid	Celestial	Mana	Ranged	Mount Targon	5
 Aurora	Female	Mid, Top	Vastaya	Mana	Ranged	Freljord	1
-Azir	Male	Mid	God Warrior	Mana	Ranged	Shurima	7
+Azir	Male	Mid	God (Warrior)	Mana	Ranged	Shurima	7
 Bard	Genderless	Support	Celestial	Mana	Ranged	Runeterra	7
 Bel’Veth	Female	Jungle	Voidborn	Mana	Melee	Void	3
 Blitzcrank	Genderless	Support	Golem	Mana	Melee	Zaun	15
@@ -64,10 +64,10 @@ Katarina	Female	Mid	Human	Mana	Melee	Noxus	12
 Kayle	Female	Top	Human (Aspect)	Mana	Ranged, Melee	Mount Targon	10
 Kayn	Male	Jungle	Human	Mana	Melee	Ionia	13
 Kennen	Male	Top	Yordle	Energy	Ranged	Ionia	12
-Kha’Zix	Male	Jungle	Void-Being	Mana	Melee	Void	9
+Kha’Zix	Male	Jungle	Voidborn	Mana	Melee	Void	9
 Kindred	Genderless	Jungle	God, Spirit	Mana	Ranged	Runeterra	13
 Kled	Male	Top	Yordle	Courage	Melee	Noxus	7
-Kog’Maw	Male	Bot	Void-Being	Mana	Ranged	Void	12
+Kog’Maw	Male	Bot	Voidborn	Mana	Ranged	Void	12
 LeBlanc	Female	Mid	Human	Mana	Ranged	Noxus	15
 Lee Sin	Male	Jungle	Human	Energy	Melee	Ionia	12
 Leona	Female	Support	Human (Aspect)	Mana	Melee	Mount Targon	14
@@ -87,7 +87,7 @@ Mordekaiser	Male	Top	Revenant 	Shield	Melee	Noxus	14
 Morgana	Female	Support, Jungle	Human (Aspect)	Mana	Ranged	Demacia	15
 Naafiri	Female	Jungle, MId	Darkin	Mana	Melee	Shurima	3
 Nami	Female	Support	Vastaya	Mana	Ranged	Ionia	13
-Nasus	Male	Top	God-Warrior	Mana	Melee	Shurima	14
+Nasus	Male	Top	God (Warrior)	Mana	Melee	Shurima	14
 Nautilus	Male	Support	Revenant 	Mana	Melee	Bilgewater	12
 Neeko	Female	Mid, Support	Vastaya	Mana	Ranged	Ixtal	9
 Nidalee	Female	Jungle	Human (Spiritualist)	Mana	Ranged, Melee	Ixtal	7
@@ -104,10 +104,10 @@ Qiyana	Female	MId	Human	Mana	Melee	Ixtal	13
 Quinn	Female	Top	Vastaya	Mana	Ranged	Demacia	14
 Rakan	Male	Support	Vastaya	Mana	Melee	Ionia	12
 Rammus	Male	Jungle	Unknown	Mana	Melee	Shurima	14
-Rek’Sai	Female	Top, Jungle	Void-Being	Mana	Melee	Void	9
+Rek’Sai	Female	Top, Jungle	Voidborn	Mana	Melee	Void	9
 Rell	Female	Support	Human	Mana	Melee	Noxus	7
 Renata Glasc	Female	Support	Human	Mana	Ranged	Zaun	13
-Renekton	Male	Top	God-Warrior	Fury	Melee	Shurima	12
+Renekton	Male	Top	God (Warrior)	Fury	Melee	Shurima	12
 Rengar	Male	Jungle	Vastaya	Mana	Melee	Ixtal	13
 Riven	Female	Top	Human	Mana	Melee	Noxus	13
 Rumble	Male	Top	Yordle	Heat	Melee	Bandle City	12
@@ -146,7 +146,7 @@ Urgot	Male	Top	Human (Chemically Altered)	Mana	Ranged	Zaun	12
 Varus	Male	Bot	Darkin	Mana	Ranged	Ionia	9
 Vayne	Female	Top, Bot	Human	Mana	Ranged	Demacia	12
 Veigar	Male	Mid	Yordle	Mana	Ranged	Bandle City	9
-Vel’Koz	Genderless	Mid, Support	Void-Being	Mana	Ranged	Void	15
+Vel’Koz	Genderless	Mid, Support	Voidborn	Mana	Ranged	Void	15
 Vex	Female	Mid	Yordle	Mana	Ranged	Bandle City	13
 Vi	Female	Jungle	Human	Mana	Melee	Zaun	14
 Viego	Male	Jungle	Undead	Mana	Melee	Camavor	14
@@ -156,7 +156,7 @@ Volibear	Male	Top, Jungle	God, Spirit	Mana	Melee	Freljord	12
 Warwick	Male	Top, Jungle	Human (Chemically Altered)	Mana	Melee	Zaun	7
 Wukong	Male	Top, Jungle	Vastaya	Mana	Melee	Ionia	7
 Xayah	Female	Bot	Vastaya	Mana	Ranged	Ionia	13
-Xerath	Male	Mid, Support	God-Warrior	Mana	Ranged	Shurima	9
+Xerath	Male	Mid, Support	God (Warrior)	Mana	Ranged	Shurima	9
 Xin Zhao	Male	Jungle	Human	Mana	Melee	Ionia	12
 Yasuo	Male	Top, Mid	Human	Manaless	Melee	Ionia	12
 Yone	Male	Top, Mid	Human (Spiritualist)	Manaless	Melee	Ionia	12
