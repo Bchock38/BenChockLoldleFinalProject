@@ -28,26 +28,27 @@ private static Map<String, Integer> champMap;
     public static void game (int guess, int randomNum){
         int[] currentStatus = new int[8];
         Champion randChamp = champpool[randomNum];
-        System.out.println("Guess " + guess);
-        System.out.println("Enter a Champion name: ");
-        String inputName = Input.nextLine();
-        if (!champMap.containsKey(inputName)){
-            System.out.println("Misspelled");
-            game(guess,randomNum);
+        for (int i = 0; i < 6; i++) {
+            System.out.println("Guess " + guess);
+            System.out.println("Enter a Champion name: ");
+            String inputName = Input.nextLine();
+            if (!champMap.containsKey(inputName)) {
+                System.out.println("Misspelled");
+                game(guess, randomNum);
+            }
+            int champ = champMap.get(inputName);
+            currentStatus = randChamp.check(champpool[champ]);
+            System.out.println(champpool[champ]);
+            int right = arryToPrint(currentStatus);
+            System.out.println();
+            if (right == 0) {
+                System.out.println("Your right the campion was " + randChamp.getChampion());
+                break;
+            }
+            guess++;
         }
-        int champ = champMap.get(inputName);
-        currentStatus = randChamp.check(champpool[champ]);
-        System.out.println(champpool[champ]);
-        int right = arryToPrint(currentStatus);
-        System.out.println();
-        if(right == 0){
-            System.out.println("Your right the campion was " + randChamp.getChampion());
-        }
-        else if (guess >= 7){
+        if (guess == 6){
             System.out.println("Your out of guesses the champion was " + randChamp.getChampion());
-        }
-        else{
-            game(guess+1,randomNum);
         }
 
     }
