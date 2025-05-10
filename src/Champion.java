@@ -75,6 +75,18 @@ public class Champion {
 
         return checked;
     }
+    public String[] getAttributes() {
+        return new String[] {
+                champion,
+                gender,
+                position,
+                species,
+                resource,
+                range,
+                regions,
+                skins
+        };
+    }
     public String getRace() {
         return species.contains("(")
                 ? species.replaceAll("\\s*\\(.*\\)", "").toLowerCase().trim()
